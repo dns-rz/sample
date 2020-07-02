@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  }
+  /* tambahan css search */
+input, textarea {
+  width: 200px;
+  height: 30px;
+
+  font-size: 15px;
+  border: 1px solid #dee7ec;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 30px
+  padding-bottom: 50px;
+  margin-bottom: 15px
+}
+
+.search-submit {
+  background-color: #dee7ec;
+  font-color: #889eab;
+  display:block;
+  margin-top: 25px;
+  height: 50px;
+  width: 200px;
+  font-size: 18px;
+}
+
+.search {
+  font-family: montserrat;
+}
+/* tambahan css search selesai */
